@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/muhammedsouban/muhammedsouban/blob/main/Git%20Banner%20copy.gif)]
+![MasterHead](https://github.com/muhammedsouban/muhammedsouban/blob/main/Git%20Banner%20copy.gif)
 <h1 align="center">Hi 👋, I'm Muhammed Souban</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207/screenshots/3848914/programmer.gif"/>
