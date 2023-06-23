@@ -1,7 +1,7 @@
 [![MasterHead](https://drive.google.com/file/d/18HDxUmScFaRf5lbcd79viP8kKhCSBKFY/view?usp=sharing)]
 <h1 align="center">Hi 👋, I'm Muhammed Souban</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207/screenshots/3848914/programmer.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207/screenshots/3848914/programmer.gif"/>
 
 - 📄 Checkout my [Resume](https://drive.google.com/file/d/17sixMYrPtkuBy86jNHGRrH1jmZbmcXQa/view?usp=sharing)
 
