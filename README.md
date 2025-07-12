@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207/screenshots/3848914/programmer.gif"/>
 
-- 📄 Checkout my [Resume](https://drive.google.com/file/d/1_5sZLS5CRuK-_5IbIkJzyBpNIXyikoJS/view?usp=sharing)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1qs-gma538bZakE5o1Trwuw4AgaWXiQea/view?usp=sharing)
 
 - 🌱 I’m currently learning **Fullstack Development**
 
